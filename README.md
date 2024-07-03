@@ -1,0 +1,2 @@
+# Fooocus-zh
+Fooocus-zh
